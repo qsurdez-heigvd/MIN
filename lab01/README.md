@@ -20,7 +20,7 @@ Author: Quentin Surdez
 
 ## DCGAN
 
-### QUESTION 11
+### QUESTION 1.1
 
 > ❓ What makes this practical work experiment a self-supervised one?
 
