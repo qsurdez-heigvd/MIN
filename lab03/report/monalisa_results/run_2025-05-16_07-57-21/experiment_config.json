@@ -1,0 +1,22 @@
+{
+    "N_STEP": 3,
+    "N_SHAPES_LIST": [
+        60,
+        35,
+        25
+    ],
+    "N_INDIVIDUAL_LIST": [
+        50,
+        100,
+        200
+    ],
+    "N_PROPERTIES": 8,
+    "MUTATION_PROBABILITY": [
+        0.05,
+        0.01
+    ],
+    "CROSSOVER_PROBABILITY": 0.9,
+    "PARENT_SELECTION_TYPE": "tournament",
+    "K_TOURNAMENT": 5,
+    "timestamp": "2025-05-16 07:57:21"
+}
